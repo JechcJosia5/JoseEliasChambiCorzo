@@ -3,16 +3,15 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-  "build": "tsc && vite build",
-  "dev": "vite serve",
-  "preview": "vite preview"
-},
+    "build": "tsc && vite build",
+    "dev": "vite serve",
+    "preview": "vite preview"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "lite-server": "^2.6.1",
     "typescript": "^5.8.2",
     "vite": "^6.2.2"
   }
